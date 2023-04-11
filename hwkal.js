@@ -30,8 +30,8 @@ global.botname = 'ARDIAN MODS WA' //ubah jadi nama bot mu, note tanda ' gausah d
 global.footer = 'ARDIAN MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6283183387983'] // ubah aja pake nomor lu
-global.premium = ['6283183387983'] // ubah aja pake nomor lu
+global.owner = ['447971533162'] // ubah aja pake nomor lu
+global.premium = ['447971533162'] // ubah aja pake nomor lu
 global.packname = 'ARDIAN MODS WA' // ubah aja
 global.ownerr = ['ARDIAN MODS WA'] // ubaha aja
 global.author = 'ARDIAN MODS WA' //ubah aja
